@@ -1,0 +1,9 @@
+{
+  "name": "swc-jest-repro",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "swc-jest",
+    "swc-node-jest"
+  ]
+}
